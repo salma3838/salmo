@@ -1,0 +1,84 @@
+
+body{
+font-family: 'Times New Roman', Times, serif;
+border-top: 10px solid #1098ad;
+
+}
+p {
+  font-family:serif;
+} 
+
+
+h1 {
+  color: black;
+  font-size: 30px;
+  text-transform: uppercase;
+  color: #1098ad;
+  font-weight:bold;
+  font-family: sans-serif;
+  background-color: #f7f7f7;
+}
+
+h2 {
+  font-size: 30px;
+  color: #1098ad;
+  font-weight: bold;  
+  font-style: italic;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-family: sans-serif;
+}
+h3{
+  font-size: 30px;
+  color: #1098ad;
+  font-weight: bold;
+  font-style: italic;
+  text-transform:capitalize;
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+
+  /* font-style: italic; */
+}
+
+li {
+  font-size: 15px;
+  font-weight: 300;
+  font-family: sans-serif;
+  text-transform: lowercase;
+}
+
+nav {
+  background-color: bisque;
+  color: black;
+  width: 50%;
+}
+aside{
+  background-color:#f7f7f7;
+  border-top: 5px solid #1098ad;
+  border-bottom: 5px solid #1098ad;
+  width: 20%;
+}
+a{
+  color: #1098ad;
+}
+a:link{
+  color: #1098ad;
+  text-decoration: none;
+}
+a:visited{ 
+  color:#;
+}
+a:hover{
+  color: blue;
+  text-decoration: none;
+  font-weight: bolder;
+  cursor: pointer;
+}
+a:active{
+  color: black;
+  text-decoration: dashed;
+}
